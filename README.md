@@ -7,7 +7,7 @@
 > **"Consistency is more important than intensity."**
 
 ## 📖 About This Repository
-This repository is my **Cybersecurity Gym**. While my [Main Portfolio](../Cybersecurity-Portfolio) contains complete, polished projects, this repository houses my daily 30-minute practice drills.
+This repository is my **Cybersecurity Gym**. While my [Main Portfolio](https://github.com/d-osei/Cybersecurity-Portfolio) contains complete, polished projects, this repository houses my daily 30-minute practice drills.
 
 Here, I focus on building **muscle memory** for essential analyst skills: log parsing, regex, API scraping, and data visualization. The goal is to solve one specific problem every day to maintain a "Green" GitHub contribution graph and sharpen my Python scripting skills.
 
